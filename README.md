@@ -1,7 +1,7 @@
 # #💻/😎 DevLink
 
 
-![Welcome](./src/assets/develinks.png?raw=true)
+![Welcome](./src/assests/devlinks.png?raw=true)
 
 📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://app.netlify.com/)] Access the site ➡ ( https://devlinkcb2.netlify.app/ )
 
