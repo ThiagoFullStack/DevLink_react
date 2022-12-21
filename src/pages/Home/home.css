@@ -48,6 +48,21 @@
     color: #000;
 }
 
+.area-acesso{
+    margin: 0 auto;
+    font-size: 1.5rem;
+    border-width: 1;
+    margin-bottom: 18px;
+    padding:  8px 0;
+}
+
+.acessar{
+    background: linear-gradient(#E18700, #FFD43a);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 footer{
     display: flex;
     justify-content: center;

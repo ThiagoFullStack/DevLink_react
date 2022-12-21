@@ -3,6 +3,8 @@ import './home.css';
 
 import {Social} from '../../components/Social'
 
+import { Link } from 'react-router-dom';
+
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
 
 import { db } from '../../services/firebaseConnection';
@@ -97,6 +99,12 @@ export default function Home(){
                 <p className='link-text'>Instagram</p>
                 </a>
             </section> */}
+
+            <section className='area-acesso'>
+             
+                    <Link className='acessar' to='/login'>Acesse sua conta</Link>
+             
+            </section>
 
             {links.length !== 0 && Object.keys(socialLinks).length > 0 && (
                 <footer>

@@ -1,7 +1,14 @@
 # #💻/😎 DevLink
 
 
-![Welcome](./src/assests/devlinks.png?raw=true)
+# Criação dos links e uma preview antes de ser criado  ... 
+![Welcome](./src/assests/devlinks.png?raw=true./src/assests/devlink.png?raw=true)
+
+# Adiconar suas redes sociais ... 
+![Welcome](./src/assests/DevlinkRedes.png?raw=true)
+
+# Acessos aos links ...
+![Welcome](./src/assests/devlink.png?raw=true)
 
 📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://app.netlify.com/)] Access the site ➡ ( https://devlinkcb2.netlify.app/ )
 
@@ -30,6 +37,7 @@ You need to use Front-end.
 
 * npm install react-router-dom
 import {useNavigte} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 * npm install axios
